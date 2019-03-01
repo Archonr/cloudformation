@@ -1,9 +1,9 @@
 # --------------------------------------------------------------------------------------------------
 # CloudFormation Network Layer: VPC, Subnets + RouteTables, Internet + NAT Gateways
-# Author: Denis Astahov
+# Author: Vlad Korkach
 #
 # Version      Date           Name                Info
-# 1.0          26-Nov-2017    Denis Astahov       Initial Version
+# 1.0          26-Nov-2018    Vlad Korkach       Initial Version
 #
 # --------------------------------------------------------------------------------------------------
 AWSTemplateFormatVersion: 2010-09-09
